@@ -12,3 +12,5 @@
 - Dedução/Dedução inversa
 - Alfa/Beta Prunning
 - Algoritmo Minimax alpha-beta pruning (fazer em python ou á mão)
+
+CONSEGUIMOS!
